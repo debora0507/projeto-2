@@ -22,6 +22,7 @@ body {
 
 .principal {
    background-image: url("invocação.jpeg");
+   background-image: url("");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;

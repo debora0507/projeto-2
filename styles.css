@@ -157,4 +157,5 @@ body {
 
 .container__caixa {
     align-items: first baseline;
+    text-align: left;
 }

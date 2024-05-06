@@ -160,7 +160,7 @@ body {
 .container__caixa {
   
 }
-.container__caixa {
+.container_principal {
     background-image: url("Texto\\ do\\ seu\\ parágrafo.jpg");
     background-repeat: no-repeat;
     background-size: contain;

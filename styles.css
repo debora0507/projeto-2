@@ -162,5 +162,6 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     display: left;
+    text-align: left;
     text-align: left; /* Adicione esta linha para alinhar à esquerda */
 }

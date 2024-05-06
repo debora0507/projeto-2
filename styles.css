@@ -160,9 +160,3 @@ body {
 .container__caixa {
   
 }
-.container_principal {
-    background-image: url("Texto\\ do\\ seu\\ parágrafo.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    text-align: left; /* Adicione esta linha para alinhar à esquerda */
-}

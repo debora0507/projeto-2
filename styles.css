@@ -26,6 +26,7 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
+    text-align: left;
 }
 
 .container {

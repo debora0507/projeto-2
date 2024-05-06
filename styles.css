@@ -22,7 +22,6 @@ body {
 
 .container_principal {
    background-image: url("Texto\ do\ seu\ parágrafo.jpg");
-   background-image: url("");
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;

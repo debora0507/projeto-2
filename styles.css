@@ -161,6 +161,6 @@ body {
     background-image: url("Texto\\ do\\ seu\\ parágrafo.jpg");
     background-repeat: no-repeat;
     background-size: contain;
-    display: inline-block;
+    display: left;
     text-align: left; /* Adicione esta linha para alinhar à esquerda */
 }

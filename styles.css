@@ -61,6 +61,7 @@ body {
 
 .container__imagem {
     margin: 1em 0 2em 0;
+    text-align: left;
 }
 
 .container__caixa {

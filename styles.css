@@ -156,3 +156,10 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+.container__caixa {
+    background-image: url("Texto\\ do\\ seu\\ parágrafo.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline;
+    text-align: left; /* Adicione esta linha para alinhar à esquerda */
+}

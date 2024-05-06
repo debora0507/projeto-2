@@ -156,5 +156,5 @@ body {
 }
 
 .container__caixa {
-    align-items: center;
+    align-items: first baseline;
 }

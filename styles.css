@@ -20,13 +20,12 @@ body {
     padding: 0;
 }
 
-.container_principal {
-   background-image: url("Texto\ do\ seu\ parágrafo.jpg");
+.principal {
+    background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
-    display: inline-block;
-    text-align: left;
-    align-items: left;
+    align-items: center;
+    text-align: center;
 }
 
 .container {
@@ -43,7 +42,6 @@ body {
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
-    text-align: left;
 }
 
 .botao_secundario {
@@ -59,12 +57,10 @@ body {
 .container__titulo {
     font-size: 28px;
     font-weight: 700;
-    text-align: left;
 }
 
 .container__imagem {
     margin: 1em 0 2em 0;
-    text-align: left;
 }
 
 .container__caixa {
@@ -156,11 +152,5 @@ body {
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
-}
-.container__caixa {
-    background-image: url("Texto\\ do\\ seu\\ parágrafo.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: inline;
-    text-align: left; /* Adicione esta linha para alinhar à esquerda */
+
 }
